@@ -1,0 +1,14 @@
+{
+  "name": "hola-react",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@go-bears",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
